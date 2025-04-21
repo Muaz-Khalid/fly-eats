@@ -20,7 +20,7 @@ Make sure you have the following installed:
 - Expo CLI: `npm install -g expo-cli`
 ### Installation
 ```bash
-git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/Khuwaja-Umair/fly-eats.git)
+git clone [[https://github.com/yourusername/your-repo-name.git](https://github.com/Khuwaja-Umair/fly-eats.git)](https://github.com/Muaz-Khalid/fly-eats.git)
 cd your-repo-name
 npm install
 expo start
